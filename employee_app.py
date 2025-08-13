@@ -43,7 +43,7 @@ def read_notification_log():
     return []
 
 # FILE_PATH = r"C:\Users\532985\OneDrive - Cognizant\Desktop\WindSurfCode\employees.xlsx"
-FILE_PATH = r"https://github.com/Akshatpandey2000/BasicProj/blob/main/employees.xlsx"
+FILE_PATH = r"employees.xlsx"
 st.title("Employee Records CRUD App")
 
 # Role-based access control
